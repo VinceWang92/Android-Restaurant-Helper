@@ -1,4 +1,4 @@
-# Android Restaurant Helper App
+# Android Restaurant Recommendation App
 >Restaurant recommendation system
 
 >>* The restaurant helper app aims to use personalization to improve restaurant recommendation based on their visit history and preference.
